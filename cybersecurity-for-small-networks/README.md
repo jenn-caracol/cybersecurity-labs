@@ -11,9 +11,9 @@ Each folder corresponds to a chapter and contains:
 - 🧠 Lessons learned
 -->
 ## 🧰 Hardware
-Firewall: `Netgate 2100 BASE pfSense+`
-Wireless Router: `ASUS RT-AC5300`
-Managed Switch: `Netgear GS308E`
+Firewall: `Netgate 2100 BASE pfSense+` 
+Wireless Router: `ASUS RT-AC5300` 
+Managed Switch: `Netgear GS308E` 
 Network TAP: `Dualcomm ETAP-2003`
 
 ## 🗂 Lab Structure
