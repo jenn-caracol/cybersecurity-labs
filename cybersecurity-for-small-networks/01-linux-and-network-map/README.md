@@ -1,5 +1,5 @@
 
-# Chapter 1 – Getting Started with a Base Linux System and Network Map
+# Chapter 1 – Base Linux System and Network Map
 
 ## 🎯 Objective
 - Setup Ubuntu virtual machine to use throughout these labs
