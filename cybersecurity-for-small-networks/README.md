@@ -18,7 +18,7 @@ Each folder corresponds to a chapter and contains:
 
 ## 🗂 Lab Structure
 
-- 01 – [Base Linux VM & Network Map](/01-linux-and-network-map)
+- 01 – [Base Linux VM & Network Map](https://github.com/jenn-caracol/cybersecurity-labs/tree/main/cybersecurity-for-small-networks/01-linux-and-network-map)
 <!--
 - 02 – Network Segmentation
 - 03 – Firewall Configuration
