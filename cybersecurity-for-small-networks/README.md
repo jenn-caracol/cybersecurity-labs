@@ -1,6 +1,7 @@
 # Cybersecurity for Small Networks – Homelab Projects
 <!--
-This repository documents my hands-on labs and configurations from working through the book **_Cybersecurity for Small Networks_ by Seth Enoka** (No Starch Press, 2022). These labs simulate real-world small-office/home-office (SOHO) environments and are designed to develop practical network defense skills.
+This collection of labs and configurations are guided by the book _Cybersecurity for Small Networks_ by Seth Enoka. They simulate small home office environments, and they use similar tools and techniques used on a large scale.
+
 
 ## 📚 What's Inside
 
