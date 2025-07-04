@@ -33,6 +33,7 @@ I will be setting up an Ubuntu virtual machine to use throughout these labs and 
 
 
 ### 📸 Artifacts
+**Network Map**
 ![Network Map](../01-linux-and-network-map/generic-home-network-map.jpg)
 
 
@@ -50,5 +51,5 @@ I will be setting up an Ubuntu virtual machine to use throughout these labs and 
 ### ❓Follow-up questions, projects, and research
 - Try creating the same setup in a cloud provider like AWS.
 - Learn more about LVM and other options for disks and partitioning when installing Linux to understand the differences.
-- At the end of the chapter, it talks about `rsync` from a linux to linux perspective. What about Linux and Windows?
+- At the end of the chapter, it talks about `rsync` from a linux to linux perspective to transfer files and folders. What about Linux and Windows?
 - Review the MS OpenSSH Key Management article for a smoother experience with copying a public key remotely.
