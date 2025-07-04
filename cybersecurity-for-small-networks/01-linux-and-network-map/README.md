@@ -25,8 +25,8 @@ I will be setting up an Ubuntu virtual machine to use throughout these labs and 
 3. Removed no longer needed dependencies and previously downloaded packages: `sudo apt autoremove && sudo apt clean`
 4. Configured SSH key-based login and disabled password auth.
    - `ssh-keygen` as instructed does create a SSH key pair on Windows, and `ssh-copy-id` did not work on Windows.
-    - As a quick workaround, I remotely logged in using SSH from Windows client to the Ubuntu ssh server, and copied the public key from `C:\Users\<user>\.ssh\id_ed25519.pub` into `~/.ssh/authorized_keys`.
-    - I later found an article from Microsoft on [OpenSSH Key Management](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement), but I haven't bothered trying this at all.
+      - As a quick workaround, I remotely logged in using SSH from Windows client to the Ubuntu ssh server, and copied the public key from `C:\Users\<user>\.ssh\id_ed25519.pub` into `~/.ssh/authorized_keys`.
+      - I later found an article from Microsoft on [OpenSSH Key Management](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement), but I haven't bothered trying this at all.
 5. Drew a generic network map using Draw.io. (Keeping it generic for the public eye)
 
 
