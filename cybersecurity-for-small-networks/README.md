@@ -1,8 +1,6 @@
-# Cybersecurity for Small Networks – Homelab Projects
+# Cybersecurity for Small Networks – Home Lab Projects
+These projects follow along with the book _Cybersecurity for Small Networks_ by Seth Enoka, and result in home lab that simulates a small office with enterprise tools and techniques.
 <!--
-This collection of labs and configurations are guided by the book _Cybersecurity for Small Networks_ by Seth Enoka. They simulate small home office environments, and they use similar tools and techniques used on a large scale.
-
-
 ## 📚 What's Inside
 
 Each folder corresponds to a chapter and contains:
@@ -20,8 +18,8 @@ Each folder corresponds to a chapter and contains:
 ## 🗂 Lab Structure
 
 - 01 – [Base Linux VM & Network Map](https://github.com/jenn-caracol/cybersecurity-labs/tree/main/cybersecurity-for-small-networks/01-linux-and-network-map)
+- 02 – Network Segmentation (Currently in progress Jul-10-2025)
 <!--
-- 02 – Network Segmentation
 - 03 – Firewall Configuration
 - 04 – Wireless Security
 - 05 – VPN Setup
@@ -38,6 +36,5 @@ Each folder corresponds to a chapter and contains:
 - Deployed segmented lab network using pfSense, Squid, VPN, and IDS/IPS tools  
 - Configured ad-blocking DNS, Linux system hardening, and malware detection  
 - Fully documented with lab writeups, diagrams, and lessons in public GitHub repository
-
-GitHub: `github.com/yourusername/cybersecurity-for-small-networks-homelab`
 -->
+GitHub: `github.com/jenn-caracol/cybersecurity-labs/tree/main/cybersecurity-for-small-networks`
