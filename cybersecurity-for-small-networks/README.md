@@ -1,5 +1,5 @@
 # Cybersecurity for Small Networks – Home Lab Projects
-These projects follow along with the book _Cybersecurity for Small Networks_ by Seth Enoka, and result in home lab that simulates a small office with enterprise tools and techniques.
+These projects follow along with the book _Cybersecurity for Small Networks_ by Seth Enoka, and result in a home lab that simulates a small office with enterprise tools and techniques.
 <!--
 ## 📚 What's Inside
 
