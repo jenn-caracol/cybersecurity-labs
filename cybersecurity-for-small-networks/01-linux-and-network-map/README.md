@@ -20,16 +20,17 @@ I will be setting up a base Ubuntu virtual machine which will be used to install
 
 
 ## 🧪 Lab Steps
-1. Created an Ubuntu VM using VMware Workstation.
+1. Created an Ubuntu VM using VMware Workstation. VMware already installed.
 2. Updated system and installed essential packages: `sudo apt update && sudo apt upgrade`.
 3. Removed no longer needed dependencies and previously downloaded packages: `sudo apt autoremove && sudo apt clean`
 4. Configured SSH key-based login, disabled password auth, and disabled root login.
-   - `ssh-keygen` as instructed does create a SSH key pair on Windows, and `ssh-copy-id` did not work on Windows.
+   - `ssh-keygen` as instructed does create a SSH key pair on Windows, and `ssh-copy-id` did not work as instructed on Windows 11.
       - As a quick workaround, I remotely logged in using SSH from Windows client to the Ubuntu ssh server, and copied the public key from `C:\Users\<user>\.ssh\id_ed25519.pub` into `~/.ssh/authorized_keys`.
-      - I later found an article from Microsoft on [OpenSSH Key Management](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement), but I haven't bothered trying this at all.
-5. Logged into ISP router to review to find IP address range in DHCP settings.
-6. Start an asset inventory.
-7. Drew a generic network map using Draw.io. (Keeping it generic for the public eye)
+      - I this article from Microsoft on [OpenSSH Key Management](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement), but I haven't read through it.
+5. Create snapshot of VM after configurations.
+6. Logged into ISP router to review to find IP address range in DHCP settings.
+7. Start an asset inventory.
+8. Drew a generic network map using Draw.io. (Keeping it generic for the public eye)
 
 
 ### 📸 Artifacts
@@ -38,7 +39,8 @@ I will be setting up a base Ubuntu virtual machine which will be used to install
 
 
 ### 🔗 References
-- [Microsoft OpenSSH Key Management](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
+- Microsoft Learn: [OpenSSH Key Management](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
+- Antisyphon Training YouTube: [Understanding VMWare Virtual Networks](https://youtu.be/qBoBu1gF5ZY?si=OzI5GpcNbEsqzucv)
 
 
 ## 📘 Lessons Learned
