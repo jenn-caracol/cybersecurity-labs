@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="27.2.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.9">
   <diagram name="Page-1" id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60">
-    <mxGraphModel dx="2066" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1023" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,7 +184,7 @@
         <mxCell id="snzYmwEWvy-G4MxadNuX-12" value="Air Purifier-2" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.air_filter;fontColor=#0066CC;strokeWidth=2;strokeColor=#6881B3;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="396.5" y="589" width="40" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="snzYmwEWvy-G4MxadNuX-16" value="2025-07-02 Generic Home Network Map" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#0066CC;" parent="1" vertex="1">
+        <mxCell id="snzYmwEWvy-G4MxadNuX-16" value="2025-08-08 Generic Home Network Map" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#0066CC;" parent="1" vertex="1">
           <mxGeometry x="56" y="20" width="989" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hz1rIqiizbCjg5VNgGrb-1" value="Main Laptop" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" parent="1" vertex="1">
@@ -205,13 +205,13 @@
             <mxPoint x="209.5" y="354.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LbSNkcYFE1bcH63Dt4xv-1" value="Indoor Bicycle" style="shape=mxgraph.signs.transportation.bicycle_1;html=1;pointerEvents=1;fillColor=#CCCCCC;strokeColor=#6881B3;verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeWidth=2;fontColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="LbSNkcYFE1bcH63Dt4xv-1" value="Indoor Bicycle" style="shape=mxgraph.signs.transportation.bicycle_1;html=1;pointerEvents=1;fillColor=#CCCCCC;strokeColor=#6881B3;verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeWidth=2;fontColor=#0066CC;" parent="1" vertex="1">
           <mxGeometry x="48.129999999999995" y="95" width="127.74" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LbSNkcYFE1bcH63Dt4xv-2" value="Gaming Desktop 1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=1;shadow=0;comic=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="LbSNkcYFE1bcH63Dt4xv-2" value="Gaming Desktop 1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=1;shadow=0;comic=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="51.5" y="425" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LbSNkcYFE1bcH63Dt4xv-4" style="edgeStyle=none;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=28;fontColor=#0066CC;rounded=0;strokeColor=#6881B3;exitX=0.32;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hz1rIqiizbCjg5VNgGrb-2" target="LbSNkcYFE1bcH63Dt4xv-2">
+        <mxCell id="LbSNkcYFE1bcH63Dt4xv-4" style="edgeStyle=none;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=28;fontColor=#0066CC;rounded=0;strokeColor=#6881B3;exitX=0.32;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="hz1rIqiizbCjg5VNgGrb-2" target="LbSNkcYFE1bcH63Dt4xv-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="13.5" y="345" as="sourcePoint" />
             <mxPoint x="71.5" y="382" as="targetPoint" />
