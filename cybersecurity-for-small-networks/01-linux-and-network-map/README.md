@@ -50,8 +50,12 @@ I will be setting up a base Ubuntu virtual machine which will be used to install
 - Creating a visual network map gave me clarity on my home network.
 
 
-### ❓Follow-up questions, projects, and research
+### ❓ Follow-up questions, projects, and research
 - Try creating the same setup in a cloud provider like AWS.
 - Learn more about LVM and other options for disks and partitioning when installing Linux to understand the differences.
 - Review different SSH keys available from `ssh-keygen`.
 - Review the MS OpenSSH Key Management article for a smoother experience with copying a public key remotely.
+
+
+## 🙃 Bonus Afterthought Activity
+I did a little more than the book asked for by running `nmap` a few different times. Surely, looking at the device list on my router would've been enough, but it was hard to analyze even after dropping details into a spreadsheet and cleaning it up. I built out my Network Map from "memory" room by room, and this all proved to be flawed memory because I missed a a handful of devices. I will leave the former network map as a reminder of this, and adding a corrected network map. "You can't protect what you don't know you have." Thanks for humbling me `nmap`.
